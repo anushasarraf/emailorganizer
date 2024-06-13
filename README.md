@@ -6,5 +6,5 @@ A dashboard to organize all the job application related emails you get into diff
 3) next steps
 4) offer
 
-Motivation:
+## Motivation:
 I am tired of applying and reapplying to jobs.
