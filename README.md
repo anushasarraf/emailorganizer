@@ -7,4 +7,4 @@ A dashboard to organize all the job application related emails you get into diff
 4) offer
 
 ## Motivation:
-I am tired of applying and reapplying to jobs.
+I am tired of applying to jobs and keeping track of them.
