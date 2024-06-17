@@ -8,3 +8,6 @@ A dashboard to organize all the job application related emails you get into diff
 
 ## Motivation:
 I am tired of applying to jobs and keeping track of them.
+
+## Next steps:
+Fine-tuning model, intergrating chatGPT, mobile application, etc.
